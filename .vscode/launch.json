@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pallin",
+            "request": "launch",
+            "mainClass": "pallin",
+            "projectName": "Competitive_Coding-All_Lang-_b4b78b20"
+        }
+    ]
+}
