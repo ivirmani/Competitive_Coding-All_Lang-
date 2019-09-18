@@ -20,7 +20,7 @@ int main()
             for(int k=i;k<=(j+1)/2;k++)
             {
        
-                if(str[k] != str[j-k+i])               #Most important part
+                if(str[k] != str[j-k+i])               //Most important part
                     {
                         flag=1;
                         break;
