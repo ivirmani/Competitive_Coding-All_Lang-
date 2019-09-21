@@ -22,10 +22,10 @@ Value of each cell in 2D array can only be 0,1 and 2.
 Print the required integer, as described in the problem description
 
 ### Sample Input
-3 5
-2 1 0 2 1
-1 0 1 2 1
-1 0 0 2 1
+3 5  
+2 1 0 2 1  
+1 0 1 2 1  
+1 0 0 2 1  
 
 ### Sample Output
 2
